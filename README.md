@@ -22,3 +22,7 @@ This empty interface should be displayed
 # Connect With Us!
 [Tommy Chen](https://www.linkedin.com/in/tomchen175/)                       [Owen Shi](https://www.linkedin.com/in/owen-shi-334253222/)                          [Nick Wang](https://www.linkedin.com/in/nick-wang-b75066160/)
 
+Project made for CruzHacks hackathon
+Received Prize: Most Ambitious Project
+![Image](https://cdn.discordapp.com/attachments/963964427437215774/1072326418945548478/Screenshot_2023-02-06_at_5.22.16_PM.png)
+
